@@ -13,6 +13,6 @@ Bikcraft Project made as a course conclusion project from the Origamid,
 Web Design Course.
 
 Bikcraft site project was all made by hand with pure HTML5 and CSS3 with
-little animations made with Javascript, with a form running with PHP Mailer.
+little animations made with Javascript and a form running with PHP Mailer.
 
 This site is responsive, made by hand, static and with little SEO, js and PHP.
